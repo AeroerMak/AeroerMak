@@ -3,8 +3,11 @@
 Professional Web Developer & UI Designer
 
 I have a deep passion for working with various types of technology, and I'm always thrilled to embark on new and unique projects.
+
 Technology :
-🌐 < HTML > | < CSS > | < JavaScript > | < Php >
+Web Dev 🌐 HTML | CSS | JavaScript | PHP
+
+My Website : <a href="https://aeroer.live/" target="_blank">Aeroer.Live</a>
 
 
 <!--
