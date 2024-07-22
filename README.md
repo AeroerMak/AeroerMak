@@ -3,23 +3,10 @@
 Professional Web Developer & UI Designer
 
 I have a deep passion for working with various types of technology, and I'm always thrilled to embark on new and unique projects.
+I love creating tech-related blogs and researching various science ⚛︎ subjects. I am also a huge coffee ☕︎ lover.
 
-💻 <a href="https://aeroer.live/" target="_blank">Aeroer.Live</a>
+<a href="https://aeroer.live/" target="_blank">Aeroer.Live</a> 💻 
 
-✍🏻 <a href="https://aeroer.blog/" target="_blank">Aeroer.Blog</a>
+<a href="https://aeroer.blog/" target="_blank">Aeroer.Blog</a> ✍🏻 
 
 
-<!--
-**AeroerMak/AeroerMak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
