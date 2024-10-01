@@ -1,6 +1,6 @@
 <h1>Hello Github 👋 Aeroer</h1>
 
-<h2>Professional Web Developer & UI Designer</h2>
+<h2>Web Developer & UI Designer</h2>
 
 <p>I have a deep passion for working with various types of technology, and I'm always thrilled to embark on new and unique projects.
 I love creating tech-related blogs and researching various science ⚛︎ subjects. I am also a huge coffee ☕︎ lover.</p>
