@@ -18,21 +18,7 @@ I have a deep passion for working with various types of technology, and I'm alwa
 
 ---
 
-### 🌍 Open-Source Projects
-
-#### ProductivityTask.live  
-🔗 https://productivitytask.live  
-
-A collection of **open-source productivity tools and experiments** for developers and creators.  
-All projects are **free to use**, and the codebase is **fully open** for anyone who wants to experiment, debug, contribute, or build new features.
-
----
-
-### 🧠 Think Like Engineer (Educational Project)
-
-🔗 https://www.thinklikeengineers.com  
-
-A web-based learning platform that helps kids and students **understand coding concepts through simple interactive games**, encouraging them to think like real engineers.
+💻 **Website:** https://www.aeroer.live  
 
 ---
 
