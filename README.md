@@ -14,6 +14,11 @@ I have a deep passion for working with various types of technology, and I'm alwa
 - **Education & Research**: Teaching complex ideas simply, especially for kids & students  
 - **Open Source**: Building tools others can learn from, use, and extend  
 
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AeroerMak&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
 ---
 
 💻 **My Website:** <a href="https://www.aeroer.live" target="_blank" rel="noopener noreferrer" class="footer-dev-link">Aeroer Live</a> <br>
@@ -21,6 +26,3 @@ I have a deep passion for working with various types of technology, and I'm alwa
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AeroerMak&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
