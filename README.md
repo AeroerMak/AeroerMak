@@ -5,14 +5,6 @@
 
 I have a deep passion for working with various types of technology, and I'm always thrilled to embark on new and unique projects. I love creating tech-related blogs and researching various science ⚛︎ subjects. I am also a huge coffee ☕︎ lover.
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aeroer&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aeroer&theme=tokyonight" alt="GitHub Streak" />
-</p>
 ---
 
 - **Full-Stack Development**: TypeScript, React, Node.js, modern web tooling  
@@ -28,4 +20,16 @@ I have a deep passion for working with various types of technology, and I'm alwa
 🌐 **My Programming Documentation:** <a href="https://codebyte.aeroer.live" target="_blank" rel="noopener noreferrer" class="footer-dev-link">CodeByte</a>
 
 ---
+
+<p align="center">
+  <a href="https://www.aeroer.live" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Website-Aeroer%20Live-00C2FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Aeroer Live" />
+  </a>
+  <a href="https://codebyte.aeroer.live" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/CodeByte-Dev%20Docs-1f6feb?style=for-the-badge&logo=markdown&logoColor=white" alt="CodeByte" />
+  </a>
+  <a href="https://www.aeroer.blog" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Blog-Aeroer%20Blog-ff6b81?style=for-the-badge&logo=ghost&logoColor=white" alt="Blog" />
+  </a>
+</p>
 
