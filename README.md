@@ -5,9 +5,15 @@
 
 I have a deep passion for working with various types of technology, and I'm always thrilled to embark on new and unique projects. I love creating tech-related blogs and researching various science ⚛︎ subjects. I am also a huge coffee ☕︎ lover.
 
----
 
-### I’m Interested In
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aeroer&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aeroer&theme=tokyonight" alt="GitHub Streak" />
+</p>
+---
 
 - **Full-Stack Development**: TypeScript, React, Node.js, modern web tooling  
 - **Cloud & Architecture**: Scalable apps, serverless, automation, CI/CD
@@ -17,12 +23,6 @@ I have a deep passion for working with various types of technology, and I'm alwa
 - **Open Source**: Building tools others can learn from, use, and extend  
 
 ---
-
-<p align="center">
-  <a href="https://www.aeroer.live">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00C2FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Cloud+Architecture+Enthusiast;Building+open-source+projects;Always+learning%2C+always+shipping" alt="Typing animation" />
-  </a>
-</p>
 
 💻 **My Website:** <a href="https://www.aeroer.live" target="_blank" rel="noopener noreferrer" class="footer-dev-link">Aeroer Live</a> <br>
 🌐 **My Programming Documentation:** <a href="https://codebyte.aeroer.live" target="_blank" rel="noopener noreferrer" class="footer-dev-link">CodeByte</a>
