@@ -24,7 +24,3 @@ I have a deep passion for working with various types of technology, and I'm alwa
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AeroerMak&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AeroerMak&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
