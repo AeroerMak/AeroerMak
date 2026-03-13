@@ -18,6 +18,12 @@ I have a deep passion for working with various types of technology, and I'm alwa
 
 ---
 
+<p align="center">
+  <a href="https://www.aeroer.live">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00C2FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Cloud+Architecture+Enthusiast;Building+open-source+projects;Always+learning%2C+always+shipping" alt="Typing animation" />
+  </a>
+</p>
+
 💻 **My Website:** <a href="https://www.aeroer.live" target="_blank" rel="noopener noreferrer" class="footer-dev-link">Aeroer Live</a> <br>
 🌐 **My Programming Documentation:** <a href="https://codebyte.aeroer.live" target="_blank" rel="noopener noreferrer" class="footer-dev-link">CodeByte</a>
 
