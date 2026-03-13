@@ -18,8 +18,8 @@ I have a deep passion for working with various types of technology, and I'm alwa
 
 ---
 
-💻 **Website:** <a href="https://www.aeroer.live" target="_blank" rel="noopener noreferrer" class="footer-dev-link">Aeroer Live</a>
-🌐 **Projects Documenting:** <a href="[https://www.aeroer.live](https://codebyte.aeroer.live/)" target="_blank" rel="noopener noreferrer" class="footer-dev-link">My Programming Project Documentation</a>
+💻 **Website:** <a href="https://www.aeroer.live" target="_blank" rel="noopener noreferrer" class="footer-dev-link">Aeroer Live</a> <br>
+🌐 **My Programming Project Documentation:** <a href="https://codebyte.aeroer.live" target="_blank" rel="noopener noreferrer" class="footer-dev-link">CodeByte</a>
 
 ---
 
