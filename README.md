@@ -5,12 +5,12 @@
 
 ---
 
-I love building things on the web—especially projects that mix **engineering, education, and creativity**.  
+I love building things on the web especially projects that mix **engineering, education, and creativity**.  
 I enjoy working across the stack, experimenting with **new technologies**, and sharing what I learn through **blogs, research, and open-source projects**. Also: powered by a lot of coffee ☕️.
 
 ---
 
-### 🚀 What I’m Interested In
+### I’m Interested In
 
 - **Full-Stack Development**: TypeScript, React, Node.js, modern web tooling  
 - **Cloud & Architecture**: Scalable apps, serverless, automation, CI/CD  
@@ -44,8 +44,6 @@ A web-based learning platform that helps kids and students **understand coding c
 - **Backend**: Node.js, Express, (or your actual stack)
 - **Cloud & DevOps**: (AWS / GCP / Azure), Docker, CI/CD  
 - **Other**: Git, REST APIs, (anything else relevant)
-
-*(You can customize this list to match your real tools.)*
 
 ---
 
