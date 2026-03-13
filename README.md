@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Mohammed Asif
 
-💻 Full-Stack Web Developer | Cloud Architecture | Researcher
+💻 Full-Stack Web Developer | Cloud Architecture | Researcher 
+<br>
 🌍 Based in Malaysia  
 
 ---
@@ -15,51 +16,63 @@ I also love experimenting with **new technologies and creative development proje
 
 ## ⚡ Tech Stack
 
-**Frontend**
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Angular
+### 🖥 Frontend Development
 
-**UI / UX**
-- Figma
-- Adobe XD
-- Wireframing
-- Prototyping
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
 
-**Backend & Database**
-- Node.js
-- PostgreSQL
-- MySQL
-- Cloudflare D1
-- Neon Postgres
+### 🎨 UI / UX Design
 
-**Tools**
-- Git & GitHub
-- Cloudflare
-- VS Code
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge\&logo=adobe-xd\&logoColor=FF61F6)
+
+Wireframing • Prototyping • User Research • UI Design
+
+### ⚙ Backend & Database
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+Cloudflare D1 • Neon PostgreSQL
+
+### 🛠 Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge\&logo=cloudflare\&logoColor=white)
+
+VS Code • API Integration • Web Performance Optimization
+
 
 ---
 
 ## 🚀 Personal Projects
 
-**Open-Source Project**  
-https://productivitytask.live
-In this community we consistently update every open-source project. They stay free forever and the entire codebase is available for anyone who wants to experiment, debug, or ship new features.
+### 🌍 Open-Source Projects
 
-**Think Like Engineer (Educational Project)**  
-https://www.thinklikeengineers.com
-A web-based learning platform that helps kids learn coding concepts through simple games.
+🔗 https://productivitytask.live
+
+A collection of open-source tools and experiments built for developers and creators.
+All projects are **free to use**, and the **entire codebase is open** for anyone who wants to experiment, debug, contribute, or build new features.
+
+---
+
+### 🧠 Think Like Engineer (Educational Project)
+
+🔗 https://www.thinklikeengineers.com
+
+A web-based learning platform designed to help kids and students **understand coding concepts through simple interactive games**, encouraging them to think like real engineers.
 
 ---
 
 ## 📫 Contact Me
 
-📧 Email: contacts@aeroer.live 
-🌐 Portfolio: [your-portfolio-link ](https://binary.aeroer.live/) 
-💼 LinkedIn: https://www.linkedin.com/in/aeroer/
+📧 **Email:** [contacts@aeroer.live](mailto:contacts@aeroer.live)
+🌐 **Portfolio:** https://binary.aeroer.live
+💼 **LinkedIn:** https://www.linkedin.com/in/aeroer/
 
 ---
-
-⭐ If you like my work, feel free to follow or connect!
