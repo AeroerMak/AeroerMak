@@ -18,7 +18,7 @@ I have a deep passion for working with various types of technology, and I'm alwa
 
 ---
 
-💻 **Website:** https://www.aeroer.live  
+💻 **Website:** <a href="https://www.aeroer.live" target="_blank" rel="noopener noreferrer" class="footer-dev-link">Aeroer Live</a>
 
 ---
 
