@@ -11,9 +11,6 @@ I have a deep passion for working with various types of technology, and I'm alwa
 I also love experimenting with **new technologies and creative development projects**.
 
 ---
-
-## 🚀 Personal Projects
-
 ### 🌍 Open-Source Projects
 
 🔗 https://productivitytask.live
