@@ -19,13 +19,7 @@ I have a deep passion for working with various types of technology, and I'm alwa
 ---
 
 💻 **Website:** <a href="https://www.aeroer.live" target="_blank" rel="noopener noreferrer" class="footer-dev-link">Aeroer Live</a>
+🌐 **Projects Documenting:** <a href="[https://www.aeroer.live](https://codebyte.aeroer.live/)" target="_blank" rel="noopener noreferrer" class="footer-dev-link">My Programming Project Documentation</a>
 
 ---
 
-### 📫 Contact Me
-
-📧 **Email:** [contacts@aeroer.live](mailto:contacts@aeroer.live)  
-🌐 **Portfolio:** https://binary.aeroer.live  
-💼 **LinkedIn:** https://www.linkedin.com/in/aeroer/
-
----
