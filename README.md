@@ -14,11 +14,6 @@ I have a deep passion for working with various types of technology, and I'm alwa
 - **Education & Research**: Teaching complex ideas simply, especially for kids & students  
 - **Open Source**: Building tools others can learn from, use, and extend  
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AeroerMak&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ---
 
 💻 **My Website:** <a href="https://www.aeroer.live" target="_blank" rel="noopener noreferrer" class="footer-dev-link">Aeroer Live</a> <br>
@@ -26,3 +21,19 @@ I have a deep passion for working with various types of technology, and I'm alwa
 
 ---
 
+<!-- Coding typing animation -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00C2FF&center=true&vCenter=true&width=700&lines=console.log('Hello+World');Building+full-stack+web+systems;Cloud+architecture+%7C+DevOps;Research+%2B+Coding+%2B+Coffee"
+    alt="Coding animation"
+  />
+</p>
+
+<!-- (Optional) coding GIF – replace src with your own GIF URL -->
+<p align="center">
+  <img
+    src="https://your-coding-gif-url-here.gif"
+    alt="Developer coding animation"
+    width="500"
+  />
+</p>
