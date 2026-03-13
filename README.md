@@ -6,8 +6,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
 I have a deep passion for working with various types of technology, and I'm always thrilled to embark on new and unique projects. I love creating tech-related blogs and researching various science ⚛︎ subjects. I am also a huge coffee ☕︎ lover.
 
 I also love experimenting with **new technologies and creative development projects**.
