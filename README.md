@@ -1,16 +1,13 @@
 # Hi there 👋 I'm Mohammed Asif
 
-💻 Full-Stack Web Developer | UI Designer  
+💻 Full-Stack Web Developer | Cloud Architecture | Researcher
 🌍 Based in Malaysia  
-🚀 6+ years experience building modern web applications
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a passionate web developer with more than **6 years of experience** building websites, web systems, and user interfaces.
-
-I enjoy creating **clean UI, scalable systems, and fast web applications**. I have worked on multiple platforms including **news portals, e-learning systems, job portals, and business websites**.
+I have a deep passion for working with various types of technology, and I'm always thrilled to embark on new and unique projects. I love creating tech-related blogs and researching various science ⚛︎ subjects. I am also a huge coffee ☕︎ lover.
 
 I also love experimenting with **new technologies and creative development projects**.
 
