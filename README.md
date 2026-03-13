@@ -1,37 +1,58 @@
 # Hi there 👋 I'm Mohammed Asif
 
-💻 Full-Stack Web Developer | Cloud Architecture | Researcher 
-<br>
-🌍 Based in Malaysia  
+💻 **Full-Stack Developer** · ☁️ **Cloud Architecture Enthusiast** · 🔬 **Tech & Science Researcher**  
+🌍 Based in **Malaysia**
 
 ---
 
-I have a deep passion for working with various types of technology, and I'm always thrilled to embark on new and unique projects. I love creating tech-related blogs and researching various science ⚛︎ subjects. I am also a huge coffee ☕︎ lover.
-
-I also love experimenting with **new technologies and creative development projects**.
+I love building things on the web—especially projects that mix **engineering, education, and creativity**.  
+I enjoy working across the stack, experimenting with **new technologies**, and sharing what I learn through **blogs, research, and open-source projects**. Also: powered by a lot of coffee ☕️.
 
 ---
+
+### 🚀 What I’m Interested In
+
+- **Full-Stack Development**: TypeScript, React, Node.js, modern web tooling  
+- **Cloud & Architecture**: Scalable apps, serverless, automation, CI/CD  
+- **Education & Research**: Teaching complex ideas simply, especially for kids & students  
+- **Open Source**: Building tools others can learn from, use, and extend  
+
+---
+
 ### 🌍 Open-Source Projects
 
-🔗 https://productivitytask.live
+#### ProductivityTask.live  
+🔗 https://productivitytask.live  
 
-A collection of open-source tools and experiments built for developers and creators.
-All projects are **free to use**, and the **entire codebase is open** for anyone who wants to experiment, debug, contribute, or build new features.
+A collection of **open-source productivity tools and experiments** for developers and creators.  
+All projects are **free to use**, and the codebase is **fully open** for anyone who wants to experiment, debug, contribute, or build new features.
 
 ---
 
 ### 🧠 Think Like Engineer (Educational Project)
 
-🔗 https://www.thinklikeengineers.com
+🔗 https://www.thinklikeengineers.com  
 
-A web-based learning platform designed to help kids and students **understand coding concepts through simple interactive games**, encouraging them to think like real engineers.
+A web-based learning platform that helps kids and students **understand coding concepts through simple interactive games**, encouraging them to think like real engineers.
 
 ---
 
-## 📫 Contact Me
+### 🛠️ Tech Stack & Tools
 
-📧 **Email:** [contacts@aeroer.live](mailto:contacts@aeroer.live)
-🌐 **Portfolio:** https://binary.aeroer.live
+- **Languages**: JavaScript / TypeScript, Python, (add others you use)
+- **Frontend**: React, Next.js, (or your actual stack)
+- **Backend**: Node.js, Express, (or your actual stack)
+- **Cloud & DevOps**: (AWS / GCP / Azure), Docker, CI/CD  
+- **Other**: Git, REST APIs, (anything else relevant)
+
+*(You can customize this list to match your real tools.)*
+
+---
+
+### 📫 Contact Me
+
+📧 **Email:** [contacts@aeroer.live](mailto:contacts@aeroer.live)  
+🌐 **Portfolio:** https://binary.aeroer.live  
 💼 **LinkedIn:** https://www.linkedin.com/in/aeroer/
 
 ---
