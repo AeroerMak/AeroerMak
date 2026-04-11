@@ -7,7 +7,7 @@ I have a deep passion for working with various types of technology, and I'm alwa
 
 ---
 
-- **Full-Stack Development**: TypeScript, React, Node.js, modern web tooling  
+- **Full-Stack Development**: JavaScript, TypeScript, React, Node.js, (HTML|CSS) modern web tooling  
 - **Cloud & Architecture**: Scalable apps, serverless, automation, CI/CD
 - **DevOps**: (AWS / GCP / Azure), Docker
 - **Other**: Git, REST APIs
